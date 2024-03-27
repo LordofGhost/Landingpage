@@ -1,6 +1,8 @@
-# odin-landingPage
+# Odin LandingPage
 
 Basic Landing Page
+
+Preview: [Landing Page](https://lordofghost.github.io/odin-landingPage/)
 
 ## Credits
 
