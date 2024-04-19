@@ -2,7 +2,7 @@
 
 Basic Landing Page
 
-Preview: [Landing Page](https://lordofghost.github.io/odin-landingPage/)
+Preview: [Landing Page](https://lordofghost.github.io/Landingpage/)
 
 ## Credits
 
