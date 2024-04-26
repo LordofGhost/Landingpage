@@ -1,6 +1,6 @@
 # Odin LandingPage
 
-Basic Landing Page
+This is a simple start page. I had problems with different screen sizes when creating it, but I was able to solve the problem with flexbox.
 
 Preview: [Landing Page](https://lordofghost.github.io/Landingpage/)
 
